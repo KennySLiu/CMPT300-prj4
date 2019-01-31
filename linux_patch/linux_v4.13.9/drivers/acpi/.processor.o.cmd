@@ -1,0 +1,1 @@
+cmd_drivers/acpi/processor.o := rm -f drivers/acpi/processor.o; ar rcSTPD drivers/acpi/processor.o drivers/acpi/processor_driver.o drivers/acpi/processor_idle.o drivers/acpi/processor_throttling.o drivers/acpi/processor_thermal.o drivers/acpi/processor_perflib.o

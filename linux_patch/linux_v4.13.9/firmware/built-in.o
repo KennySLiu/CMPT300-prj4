@@ -1,0 +1,14 @@
+!<thin>
+//                                              156       `
+e100/d101m_ucode.bin.gen.o/
+e100/d101s_ucode.bin.gen.o/
+e100/d102e_ucode.bin.gen.o/
+tigon/tg3.bin.gen.o/
+tigon/tg3_tso.bin.gen.o/
+tigon/tg3_tso5.bin.gen.o/
+/0              0           0     0     644     1808      `
+/28             0           0     0     644     1808      `
+/56             0           0     0     644     1808      `
+/84             0           0     0     644     3912      `
+/105            0           0     0     644     8264      `
+/130            0           0     0     644     5144      `

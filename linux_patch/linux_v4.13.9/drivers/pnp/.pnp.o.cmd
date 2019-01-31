@@ -1,0 +1,1 @@
+cmd_drivers/pnp/pnp.o := rm -f drivers/pnp/pnp.o; ar rcSTPD drivers/pnp/pnp.o drivers/pnp/core.o drivers/pnp/card.o drivers/pnp/driver.o drivers/pnp/resource.o drivers/pnp/manager.o drivers/pnp/support.o drivers/pnp/interface.o drivers/pnp/quirks.o drivers/pnp/system.o

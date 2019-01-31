@@ -1,0 +1,1 @@
+cmd_drivers/scsi/built-in.o :=  rm -f drivers/scsi/built-in.o; ar rcSTPD drivers/scsi/built-in.o drivers/scsi/pcmcia/built-in.o drivers/scsi/scsi_mod.o drivers/scsi/scsi_transport_spi.o drivers/scsi/sd_mod.o drivers/scsi/sr_mod.o drivers/scsi/sg.o 

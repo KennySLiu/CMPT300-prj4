@@ -1,0 +1,45 @@
+!<thin>
+//                                              290       `
+core.o/
+amd/core.o/
+amd/uncore.o/
+amd/ibs.o/
+amd/iommu.o/
+msr.o/
+intel/core.o/
+intel/bts.o/
+intel/cqm.o/
+intel/ds.o/
+intel/knc.o/
+intel/lbr.o/
+intel/p4.o/
+intel/p6.o/
+intel/pt.o/
+intel/rapl.o/
+intel/uncore.o/
+intel/uncore_nhmex.o/
+intel/uncore_snb.o/
+intel/uncore_snbep.o/
+intel/cstate.o/
+
+/0              0           0     0     644     49888     `
+/8              0           0     0     644     15440     `
+/20             0           0     0     644     14984     `
+/34             0           0     0     644     17568     `
+/45             0           0     0     644     13552     `
+/58             0           0     0     644     13328     `
+/65             0           0     0     644     78448     `
+/79             0           0     0     644     9416      `
+/92             0           0     0     644     30560     `
+/105            0           0     0     644     25272     `
+/117            0           0     0     644     10840     `
+/130            0           0     0     644     17584     `
+/143            0           0     0     644     16920     `
+/155            0           0     0     644     9104      `
+/167            0           0     0     644     25768     `
+/179            0           0     0     644     19976     `
+/193            0           0     0     644     24848     `
+/209            0           0     0     644     35232     `
+/231            0           0     0     644     22488     `
+/251            0           0     0     644     97632     `
+/273            0           0     0     644     17448     `

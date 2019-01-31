@@ -1,0 +1,58 @@
+!<thin>
+//                                              600       `
+hdmi.o/
+console/dummycon.o/
+console/vgacon.o/
+console/fbcon.o/
+console/bitblit.o/
+console/softcursor.o/
+console/tileblit.o/
+logo/logo.o/
+logo/logo_linux_clut224.o/
+backlight/backlight.o/
+backlight/generic_bl.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/fb_defio.o/
+fbdev/core/cfbfillrect.o/
+fbdev/core/cfbcopyarea.o/
+fbdev/core/cfbimgblt.o/
+fbdev/core/sysfillrect.o/
+fbdev/core/syscopyarea.o/
+fbdev/core/sysimgblt.o/
+fbdev/core/fb_sys_fops.o/
+fbdev/efifb.o/
+/0              0           0     0     644     20272     `
+/8              0           0     0     644     2752      `
+/28             0           0     0     644     31856     `
+/46             0           0     0     644     57120     `
+/63             0           0     0     644     6744      `
+/82             0           0     0     644     2456      `
+/104            0           0     0     644     3568      `
+/124            0           0     0     644     2840      `
+/137            0           0     0     644     8424      `
+/164            0           0     0     644     17000     `
+/187            0           0     0     644     4512      `
+/211            0           0     0     644     4304      `
+/236            0           0     0     644     3080      `
+/260            0           0     0     644     36024     `
+/280            0           0     0     644     18408     `
+/300            0           0     0     644     9128      `
+/321            0           0     0     644     9344      `
+/343            0           0     0     644     27496     `
+/364            0           0     0     644     4336      `
+/384            0           0     0     644     8088      `
+/407            0           0     0     644     6120      `
+/433            0           0     0     644     3928      `
+/459            0           0     0     644     3232      `
+/483            0           0     0     644     6024      `
+/509            0           0     0     644     3880      `
+/535            0           0     0     644     3232      `
+/559            0           0     0     644     2520      `
+/585            0           0     0     644     12440     `

@@ -1,0 +1,27 @@
+!<thin>
+//                                              298       `
+nf_conntrack_core.o/
+nf_conntrack_standalone.o/
+nf_conntrack_expect.o/
+nf_conntrack_helper.o/
+nf_conntrack_proto.o/
+nf_conntrack_l3proto_generic.o/
+nf_conntrack_proto_generic.o/
+nf_conntrack_proto_tcp.o/
+nf_conntrack_proto_udp.o/
+nf_conntrack_extend.o/
+nf_conntrack_acct.o/
+nf_conntrack_seqadj.o/
+
+/0              0           0     0     644     46568     `
+/21             0           0     0     644     14184     `
+/48             0           0     0     644     18312     `
+/71             0           0     0     644     18080     `
+/94             0           0     0     644     17992     `
+/116            0           0     0     644     2456      `
+/148            0           0     0     644     3104      `
+/178            0           0     0     644     19616     `
+/204            0           0     0     644     6400      `
+/230            0           0     0     644     4264      `
+/253            0           0     0     644     4480      `
+/274            0           0     0     644     6288      `

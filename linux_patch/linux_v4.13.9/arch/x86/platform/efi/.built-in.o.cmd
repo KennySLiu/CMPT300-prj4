@@ -1,0 +1,1 @@
+cmd_arch/x86/platform/efi/built-in.o :=  rm -f arch/x86/platform/efi/built-in.o; ar rcSTPD arch/x86/platform/efi/built-in.o arch/x86/platform/efi/quirks.o arch/x86/platform/efi/efi.o arch/x86/platform/efi/efi_64.o arch/x86/platform/efi/efi_stub_64.o 

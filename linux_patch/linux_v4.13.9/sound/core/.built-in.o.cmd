@@ -1,0 +1,1 @@
+cmd_sound/core/built-in.o :=  rm -f sound/core/built-in.o; ar rcSTPD sound/core/built-in.o sound/core/snd.o sound/core/snd-hwdep.o sound/core/snd-timer.o sound/core/snd-hrtimer.o sound/core/snd-pcm.o sound/core/snd-seq-device.o sound/core/seq/built-in.o 

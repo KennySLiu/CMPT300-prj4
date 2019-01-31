@@ -1,0 +1,61 @@
+!<thin>
+//                                              426       `
+intel_cacheinfo.o/
+scattered.o/
+topology.o/
+common.o/
+rdrand.o/
+match.o/
+bugs.o/
+aperfmperf.o/
+proc.o/
+capflags.o/
+powerflags.o/
+intel.o/
+amd.o/
+centaur.o/
+mcheck/mce.o/
+mcheck/mce-severity.o/
+mcheck/mce-genpool.o/
+mcheck/mce_intel.o/
+mcheck/mce_amd.o/
+mcheck/threshold.o/
+mcheck/therm_throt.o/
+mtrr/main.o/
+mtrr/if.o/
+mtrr/generic.o/
+mtrr/cleanup.o/
+microcode/core.o/
+microcode/intel.o/
+microcode/amd.o/
+perfctr-watchdog.o/
+
+/0              0           0     0     644     12304     `
+/19             0           0     0     644     2584      `
+/32             0           0     0     644     2392      `
+/44             0           0     0     644     79688     `
+/54             0           0     0     644     2824      `
+/64             0           0     0     644     1904      `
+/73             0           0     0     644     1512      `
+/81             0           0     0     644     4064      `
+/95             0           0     0     644     5864      `
+/103            0           0     0     644     13424     `
+/115            0           0     0     644     1928      `
+/129            0           0     0     644     20536     `
+/138            0           0     0     644     15408     `
+/145            0           0     0     644     4280      `
+/156            0           0     0     644     57712     `
+/170            0           0     0     644     7600      `
+/193            0           0     0     644     3512      `
+/215            0           0     0     644     13888     `
+/235            0           0     0     644     29024     `
+/253            0           0     0     644     3008      `
+/273            0           0     0     644     18392     `
+/295            0           0     0     644     14512     `
+/308            0           0     0     644     8728      `
+/319            0           0     0     644     18288     `
+/335            0           0     0     644     16880     `
+/351            0           0     0     644     15816     `
+/369            0           0     0     644     14712     `
+/388            0           0     0     644     12720     `
+/405            0           0     0     644     5104      `

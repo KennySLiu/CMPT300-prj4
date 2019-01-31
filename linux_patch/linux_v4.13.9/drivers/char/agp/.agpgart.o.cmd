@@ -1,0 +1,1 @@
+cmd_drivers/char/agp/agpgart.o := rm -f drivers/char/agp/agpgart.o; ar rcSTPD drivers/char/agp/agpgart.o drivers/char/agp/backend.o drivers/char/agp/frontend.o drivers/char/agp/generic.o drivers/char/agp/isoch.o drivers/char/agp/compat_ioctl.o

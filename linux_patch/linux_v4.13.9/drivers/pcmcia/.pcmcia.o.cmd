@@ -1,0 +1,1 @@
+cmd_drivers/pcmcia/pcmcia.o := rm -f drivers/pcmcia/pcmcia.o; ar rcSTPD drivers/pcmcia/pcmcia.o drivers/pcmcia/ds.o drivers/pcmcia/pcmcia_resource.o drivers/pcmcia/cistpl.o drivers/pcmcia/pcmcia_cis.o

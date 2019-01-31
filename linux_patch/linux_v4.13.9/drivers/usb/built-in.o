@@ -1,0 +1,83 @@
+!<thin>
+//                                              660       `
+core/usb.o/
+core/hub.o/
+core/hcd.o/
+core/urb.o/
+core/message.o/
+core/driver.o/
+core/config.o/
+core/file.o/
+core/buffer.o/
+core/sysfs.o/
+core/endpoint.o/
+core/devio.o/
+core/notify.o/
+core/generic.o/
+core/quirks.o/
+core/devices.o/
+core/port.o/
+core/hcd-pci.o/
+core/usb-acpi.o/
+mon/mon_main.o/
+mon/mon_stat.o/
+mon/mon_text.o/
+mon/mon_bin.o/
+host/pci-quirks.o/
+host/ehci-hcd.o/
+host/ehci-pci.o/
+host/ohci-hcd.o/
+host/ohci-pci.o/
+host/uhci-hcd.o/
+class/usblp.o/
+storage/scsiglue.o/
+storage/protocol.o/
+storage/transport.o/
+storage/usb.o/
+storage/initializers.o/
+storage/sierra_ms.o/
+storage/option_ms.o/
+storage/usual-tables.o/
+early/ehci-dbgp.o/
+common/common.o/
+
+/0              0           0     0     644     22368     `
+/12             0           0     0     644     67440     `
+/24             0           0     0     644     45032     `
+/36             0           0     0     644     17496     `
+/48             0           0     0     644     30520     `
+/64             0           0     0     644     25512     `
+/79             0           0     0     644     16752     `
+/94             0           0     0     644     7216      `
+/107            0           0     0     644     3568      `
+/122            0           0     0     644     29312     `
+/136            0           0     0     644     5808      `
+/153            0           0     0     644     42968     `
+/167            0           0     0     644     3336      `
+/182            0           0     0     644     4368      `
+/198            0           0     0     644     4504      `
+/213            0           0     0     644     9704      `
+/229            0           0     0     644     11384     `
+/242            0           0     0     644     11656     `
+/258            0           0     0     644     4696      `
+/275            0           0     0     644     9080      `
+/291            0           0     0     644     2480      `
+/307            0           0     0     644     12744     `
+/323            0           0     0     644     16520     `
+/338            0           0     0     644     20480     `
+/357            0           0     0     644     59824     `
+/374            0           0     0     644     8936      `
+/391            0           0     0     644     44480     `
+/408            0           0     0     644     7592      `
+/425            0           0     0     644     34072     `
+/442            0           0     0     644     20968     `
+/457            0           0     0     644     11176     `
+/477            0           0     0     644     3912      `
+/497            0           0     0     644     15000     `
+/518            0           0     0     644     52792     `
+/533            0           0     0     644     1840      `
+/557            0           0     0     644     3632      `
+/578            0           0     0     644     3184      `
+/599            0           0     0     644     11800     `
+/623            0           0     0     644     10464     `
+/642            0           0     0     644     5800      `
